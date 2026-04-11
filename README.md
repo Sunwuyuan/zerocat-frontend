@@ -1,3 +1,4 @@
+> ⚠️我们已将前端迁移到统一仓库 [ZeroCat](https://github.com/ZeroCatDev/ZeroCat)，此独立仓库将被归档。
 
 # ZeroCat 零猫社区
 
